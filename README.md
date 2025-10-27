@@ -41,7 +41,7 @@ Digital-Forensics-File-Analyzer/
 
 Clone the repository and navigate to the project folder:
 
-git clone https://github.com/YOUR_USERNAME/Digital-Forensics-File-Analyzer.git
+git clone https://github.com/sanjana06-dotcom/Digital-Forensics-File-Analyzer.git
 cd Digital-Forensics-File-Analyzer
 
 2️⃣ Create Database
